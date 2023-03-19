@@ -1,0 +1,8 @@
+[submodule "socblog/themes/congo"]
+	path = socblog/themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
+[submodule "socblog/public"]
+	path = socblog/public
+	url = https://github.com/HajileTrebla/soc.github.io
+	branch = master
