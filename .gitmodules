@@ -6,3 +6,6 @@
 	path = socblog/public
 	url = https://github.com/HajileTrebla/soc.github.io
 	branch = master
+[submodule "socblog/themes/calligraphy"]
+	path = socblog/themes/calligraphy
+	url = https://github.com/pacollins/calligraphy.git
